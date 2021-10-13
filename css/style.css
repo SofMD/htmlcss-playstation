@@ -70,3 +70,9 @@ main .banner-returnal .returnal-description img {
 main .banner-returnal .returnal-description .pl-button {
     background-color: #cd3d0f;
 }
+
+/* games */
+
+.games .row .col {
+    background-color: teal;
+}
