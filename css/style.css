@@ -26,6 +26,13 @@ a {
     text-decoration: none;
     color: currentColor;
 }
+
+.tm {
+    font-size: 0.5rem;
+    vertical-align: super;
+}
+
+
 /* header */
 header {
     font-family: helvetica;
@@ -163,9 +170,4 @@ main .new-exits {
 .new-exits .ne-cards img{
     width: 100%;
     border-radius: 25px;
-}
-
-.new-exits .ne-cards .tm {
-    font-size: 0.5rem;
-    vertical-align: super;
 }
