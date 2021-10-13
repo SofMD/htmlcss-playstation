@@ -1,3 +1,16 @@
+
+/* general */
+.pl-button {
+    padding: 8px 15px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+}
+
+.lens {
+    width: 1.7rem;
+}
+
 /* header */
 
 header .header-top {
@@ -9,11 +22,19 @@ header .header-top img {
     width: 6rem; 
 }
 
-header div ul li a{
+header  a{
     text-decoration: none;
     color: black;
 }
 
 header div ul li .chevron {
     width: 0.7rem;
+}
+
+header li {
+    list-style: none;
+}
+
+header .pl-button {
+    background-color: #363636;
 }
