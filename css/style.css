@@ -42,3 +42,14 @@ header .pl-button {
 header nav .navbar-rg  {
     font-size: 0.9rem;
 }
+
+/* main */
+/* banner-returnal */
+main .banner-returnal {
+    background-color: thistle;
+    width: 100vw;
+}
+
+main .banner-returnal .banner-row {
+    height: 590px;
+}
