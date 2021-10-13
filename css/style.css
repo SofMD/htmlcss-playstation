@@ -102,6 +102,21 @@ main .banner-returnal .returnal-description .pl-button {
     width: 60%;
 }
 
+.device-container {
+    filter: grayscale(70%);
+    opacity: 70%;
+}
+
+.device-container-active {
+    border-bottom: 2px solid #2d64e6;
+}
+
+.device-container:hover {
+    filter: none;
+    opacity: 100%;
+    border-bottom: 2px solid #2d64e6;
+}
+
 .small-devices-description {
     display: none;
 }
