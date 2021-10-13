@@ -73,6 +73,7 @@ main .banner-returnal .returnal-description .pl-button {
 
 /* games */
 
-.games .row .col {
-    background-color: teal;
+.games div>img {
+    width: 100%;
+    border-radius: 15px;
 }
