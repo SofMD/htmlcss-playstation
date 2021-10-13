@@ -73,7 +73,7 @@ main .banner-returnal .returnal-description .pl-button {
 
 /* games */
 
-.games div>img {
+.games a>img {
     width: 100%;
     border-radius: 15px;
 }
