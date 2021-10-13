@@ -1,0 +1,10 @@
+/* header */
+
+header .header-top {
+    width: 100vw;
+    background-color: black;
+}
+
+header .header-top img {
+    width: 6rem; 
+}
