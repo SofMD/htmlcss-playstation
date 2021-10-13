@@ -23,7 +23,9 @@ h2 {
 }
 
 /* header */
-
+header {
+    font-family: helvetica;
+}
 header .header-top {
     width: 100vw;
     background-color: black;
@@ -94,4 +96,18 @@ main .banner-returnal .returnal-description .pl-button {
 
 .devices img {
     width: 100%;
+}
+
+.devices .small-devices {
+    width: 60%;
+}
+
+.small-devices-description {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .small-devices-description {
+        display: block;
+    }
 }
