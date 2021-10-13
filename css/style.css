@@ -126,3 +126,24 @@ main .banner-returnal .returnal-description .pl-button {
         display: block;
     }
 }
+
+/* banner-itt */
+main .banner-itt {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position-x: center;
+    width: 100vw;
+    color: white;
+}
+
+main .banner-itt .banner-row {
+    height: 590px;
+}
+
+main .banner-itt .itt-description img {
+    width: 16rem;    
+}
+
+main .banner-itt .itt-description .pl-button {
+    background-color: #cd3d0f;
+}
