@@ -16,6 +16,12 @@ body {
 h2 {
     font-size: 2.5rem;
 }
+
+.description-writes {
+    color: #727272;
+    font-size: 1.1rem;
+}
+
 /* header */
 
 header .header-top {
@@ -77,11 +83,15 @@ main .banner-returnal .returnal-description .pl-button {
 }
 
 /* writes */
-
-.description-writes {
-    color: #727272;
-}
-
 .writes div>div {
     color: #0072ce;
+}
+
+/* devices  */
+.devices div .pl-button {
+    background-color: #2d64e6;
+}
+
+.devices img {
+    width: 100%;
 }
