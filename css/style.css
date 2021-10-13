@@ -38,3 +38,7 @@ header li {
 header .pl-button {
     background-color: #363636;
 }
+
+header nav .navbar-rg  {
+    font-size: 0.9rem;
+}
