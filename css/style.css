@@ -22,6 +22,10 @@ h2 {
     font-size: 1.1rem;
 }
 
+a {
+    text-decoration: none;
+    color: currentColor;
+}
 /* header */
 header {
     font-family: helvetica;
@@ -146,4 +150,12 @@ main .banner-itt .itt-description img {
 
 main .banner-itt .itt-description .pl-button {
     background-color: #cd3d0f;
+}
+
+/* nuove uscite */
+
+main .new-exits {
+    background-color: #1f1f1f;
+    width: 100vw;
+    color: white;
 }
