@@ -15,7 +15,6 @@ body {
 
 h2 {
     font-size: 2.5rem;
-    font-weight: bold;
 }
 /* header */
 
@@ -78,3 +77,11 @@ main .banner-returnal .returnal-description .pl-button {
 }
 
 /* writes */
+
+.description-writes {
+    color: #727272;
+}
+
+.writes div>div {
+    color: #0072ce;
+}
