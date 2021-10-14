@@ -226,4 +226,29 @@ main .new-exits {
 footer {
     width: 100vw;
     background-color: #00439c;
+    color: white;
+}
+
+footer .logo-footer {
+    width: 120px;
+}
+
+footer .leanguage-globe {
+    width: 1.8rem;
+}
+
+footer div a {
+    line-height: 2.2rem;
+}
+
+footer div a:hover {
+    text-decoration: underline;
+}
+
+footer .sie-logo {
+    width: 9rem;
+}
+
+footer .footer-info {
+    text-decoration: underline;
 }
