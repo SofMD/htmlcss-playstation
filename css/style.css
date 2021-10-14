@@ -220,3 +220,10 @@ main .new-exits {
     background-color: white;
     color:black;
 }
+
+/* footer */
+
+footer {
+    width: 100vw;
+    background-color: #00439c;
+}
