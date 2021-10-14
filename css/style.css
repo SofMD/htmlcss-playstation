@@ -27,6 +27,9 @@ a {
     text-decoration: none;
     color: currentColor;
 }
+a:hover {
+    color: currentColor;
+}
 
 .tm {
     font-size: 0.5rem;
@@ -174,4 +177,20 @@ main .new-exits {
 /*  ps4devices */
 .ps4-device .pl-button {
     background-color: #2d64e6;
+}
+
+/* playstation plus */
+.playstation-plus {
+    width: 100vw;
+    background-color: #bebcbb;
+}
+
+.none-image {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .none-image {
+        display: block;
+    }
 }
