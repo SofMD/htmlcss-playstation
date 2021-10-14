@@ -194,3 +194,12 @@ main .new-exits {
         display: block;
     }
 }
+
+.playstation-plus  .plus-logo-image {
+    width: 60%;
+}
+
+.playstation-plus .pl-button {
+    background-color: white;
+    color:#2d64e6 ;
+}
