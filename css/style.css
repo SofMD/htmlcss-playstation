@@ -31,10 +31,6 @@ a:hover {
     color: currentColor;
 }
 
-.tm {
-    font-size: 0.5rem;
-    vertical-align: super;
-}
 
 .wd100 {
     width: 100%;
@@ -44,6 +40,7 @@ a:hover {
 header {
     font-family: helvetica;
     position: fixed;
+    z-index: 1;
 }
 
 header .header-top {
@@ -86,7 +83,6 @@ main .banner-returnal {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position-x: center;
-    width: 100vw;
     color: white;
 }
 
@@ -151,7 +147,6 @@ main .banner-itt {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-position-x: center;
-    width: 100vw;
     color: white;
 }
 
@@ -171,7 +166,6 @@ main .banner-itt .itt-description .pl-button {
 
 main .new-exits {
     background-color: #1f1f1f;
-    width: 100vw;
     color: white;
 }
 
@@ -187,7 +181,6 @@ main .new-exits {
 
 /* playstation plus */
 .playstation-plus {
-    width: 100vw;
     background-color: #bebcbb;
 }
 
@@ -213,7 +206,6 @@ main .new-exits {
 
 /* playstation row */
 .playstation-now {
-    width: 100vw;
     background-color: #161c3b;
     color: white;
 }
@@ -230,7 +222,6 @@ main .new-exits {
 /* footer */
 
 footer {
-    width: 100vw;
     background-color: #00439c;
     color: white;
 }
