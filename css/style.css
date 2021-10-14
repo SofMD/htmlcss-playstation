@@ -43,7 +43,9 @@ a:hover {
 /* header */
 header {
     font-family: helvetica;
+    position: fixed;
 }
+
 header .header-top {
     width: 100vw;
     background-color: black;
@@ -76,6 +78,10 @@ header nav .navbar-rg  {
 
 /* main */
 /* banner-returnal */
+
+main {
+    padding-top: 106px;
+}
 main .banner-returnal {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
