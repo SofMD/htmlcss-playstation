@@ -196,10 +196,27 @@ main .new-exits {
 }
 
 .playstation-plus  .plus-logo-image {
-    width: 60%;
+    width: 70%;
 }
 
 .playstation-plus .pl-button {
     background-color: white;
     color:#2d64e6 ;
+}
+
+
+/* playstation row */
+.playstation-now {
+    width: 100vw;
+    background-color: #161c3b;
+    color: white;
+}
+
+.playstation-now  .now-logo-image {
+    width: 70%;
+}
+
+.playstation-now .pl-button {
+    background-color: white;
+    color:black;
 }
